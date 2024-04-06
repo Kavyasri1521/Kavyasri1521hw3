@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(82, 113, 144);
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.top-box{
+    background-color: rgb(122, 125, 125);
+    width: 700px;
+    height: 110px;
+    margin: auto;
+    text-align: center;
+}
+.menu-items{
+    display: flex;
+    justify-content:space-around;
+}
+.footer-data{
+    text-align: center;
+}
+#searchContainer{
+    margin-top: 20px;
+    text-align: center;
+}
+h1{
+    font-size:35px;
+}
+.images{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+div div div a {
+    text-decoration: none;
+    color: #e42330;
+}
